@@ -1,0 +1,4 @@
+hist () {
+	/Users/nitsanavni/code/potato-history/potato-history.js
+	print -z "$(</tmp/hist)"
+}
